@@ -19,14 +19,6 @@
 >- Software Architecture (Completed)
 >- 실제 구현 화면 및 코드
 
-
-
-
-## 0. 배포 서버 URL
-
-<<<URL 여기에 넣기>>>
-
-
 ## 1. 프로젝트 착수
 
 ### (1) 주제
