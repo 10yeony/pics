@@ -59,7 +59,7 @@
 ### (5) 개발 일정
 - 개발 기간 : 2020.08.24(월) ~ 2020.09.18(금) (총 4주) 
 ![](https://images.velog.io/images/wpdud94/post/00f2276c-0f84-47ef-92cf-cf887364a41e/1_5_development%20schedule.png)
-
+  
 ### (6) 개발팀 소개
 ![](https://images.velog.io/images/wpdud94/post/a66322de-67ca-4116-bf1f-a193c2639e1e/1_6_members.png)
 
@@ -113,10 +113,10 @@
 - 폴더구조
 ![](https://images.velog.io/images/wpdud94/post/26251aef-8076-4bc3-a776-da874c7ed4d8/3_2_softwareAchritecture_folder1.png)
 ![](https://images.velog.io/images/wpdud94/post/72355c12-b520-4084-992a-09a57730db6e/3_2_softwareAchritecture_folder2.png)  
-
+  
 ### (2) 시연 영상  
 [![Video Label](https://img.youtube.com/vi/Oz6t3wccgOo/maxresdefault.jpg)](https://youtu.be/Oz6t3wccgOo?t=0s)  
-
+  
 ### (3) 구현 및 코드  
 <a href="https://drive.google.com/file/d/15XsCKff8jFVu8iNK09mMp_M-iUgW52tR/view?usp=sharing">
 구현부분 링크이동
