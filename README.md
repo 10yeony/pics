@@ -60,7 +60,6 @@
 - 개발 기간 : 2020.08.24(월) ~ 2020.09.18(금) (총 4주) 
 ![](https://images.velog.io/images/wpdud94/post/00f2276c-0f84-47ef-92cf-cf887364a41e/1_5_development%20schedule.png)
 
-<br>
 ### (6) 개발팀 소개
 ![](https://images.velog.io/images/wpdud94/post/a66322de-67ca-4116-bf1f-a193c2639e1e/1_6_members.png)
 
