@@ -16,8 +16,9 @@
 >- Class Entity  Association
 >- Service Flow
 > ### 3. 구현
->- Software Architecture (Completed)
->- 실제 구현 화면 및 코드
+>- Software Architecture
+>- 시연 영상
+>- 구현 및 코드
 
 ## 1. 프로젝트 착수
 
@@ -112,10 +113,12 @@
 ![](https://images.velog.io/images/wpdud94/post/40bfaec4-da9d-4883-be1d-8b5c0333e9a7/3_1_softwareAchritecture_flask2.png)
 - 폴더구조
 ![](https://images.velog.io/images/wpdud94/post/26251aef-8076-4bc3-a776-da874c7ed4d8/3_2_softwareAchritecture_folder1.png)
-![](https://images.velog.io/images/wpdud94/post/72355c12-b520-4084-992a-09a57730db6e/3_2_softwareAchritecture_folder2.png)
+![](https://images.velog.io/images/wpdud94/post/72355c12-b520-4084-992a-09a57730db6e/3_2_softwareAchritecture_folder2.png)  
 
-### (2) 실제 구현 화면 및 코드
+### (2) 시연 영상  
+[![Video Label](https://img.youtube.com/vi/Oz6t3wccgOo/maxresdefault.jpg)](https://youtu.be/Oz6t3wccgOo?t=0s)  
 
+### (3) 구현 및 코드  
 <a href="https://drive.google.com/file/d/15XsCKff8jFVu8iNK09mMp_M-iUgW52tR/view?usp=sharing">
 구현부분 링크이동
 </a>
