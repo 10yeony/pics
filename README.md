@@ -61,7 +61,7 @@
 ![](https://images.velog.io/images/wpdud94/post/00f2276c-0f84-47ef-92cf-cf887364a41e/1_5_development%20schedule.png)
   
 ### (6) 개발팀 소개
-![](https://images.velog.io/images/wpdud94/post/a66322de-67ca-4116-bf1f-a193c2639e1e/1_6_members.png)
+![](https://drive.google.com/uc?id=1FmwkHP4hqHx-l_pl4AillMLKQgGlK0Lp)
 
 -------------------
 -----------------
@@ -116,9 +116,12 @@
   
 ### (2) 시연 영상  
 [![Video Label](https://img.youtube.com/vi/Oz6t3wccgOo/maxresdefault.jpg)](https://youtu.be/Oz6t3wccgOo?t=0s)  
+<a href="https://youtu.be/Oz6t3wccgOo?t=0s" target="_blank">
+시연 영상 보러가기
+</a>
   
 ### (3) 구현 및 코드  
-<a href="https://drive.google.com/file/d/15XsCKff8jFVu8iNK09mMp_M-iUgW52tR/view?usp=sharing">
+<a href="https://drive.google.com/file/d/15XsCKff8jFVu8iNK09mMp_M-iUgW52tR/view?usp=sharing" target="_blank">
 구현부분 링크이동
 </a>
 
